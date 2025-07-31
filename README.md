@@ -1,6 +1,6 @@
 # CRUD Operations on Sales Dataset
 
-This project demonstrates basic Create, Read, Update, Delete (CRUD) operations on a sales dataset using Python and SQLite.
+This project demonstrates basic Create, Read, Update, Delete (CRUD) operations on a sales dataset using Python and Streamlit.
 
 # Features
 
