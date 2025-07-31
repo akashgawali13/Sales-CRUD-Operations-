@@ -17,4 +17,6 @@ This project demonstrates basic Create, Read, Update, Delete (CRUD) operations o
 - orders_data.csv` - Sample data
 - `requirements.txt` - Libraries used
 
-
+ # Issues and Fixes
+Issue: Error reading Excel due to open file handle
+Fix: Close Excel before running the app
